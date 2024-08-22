@@ -1,6 +1,6 @@
 # Minitalk
 
-Minitalk is a small data exchange program using UNIX signals. This project involves creating a communication program in the form of a client and server. The server must be launched first and print its PID. The client takes two parameters: the server PID and the string to send. The client must communicate the string to the server using UNIX signals. The server must quickly display the string received.
+Minitalk is a small data exchange program using UNIX signals. This project from the 42 programming school involves creating a communication program in the form of a client and server. The server must be launched first and print its PID. The client takes two parameters: the server PID and the string to send. The client must communicate the string to the server using UNIX signals. The server must quickly display the string received.
 
 ## Key Learnings
 
