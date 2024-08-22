@@ -19,3 +19,6 @@ Minitalk is a small data exchange program using UNIX signals. This project from 
 1. Compile the project with `make` command.
 2. Get the server PID: `./server`
 3. Open a new window and write your message: `./client <PID> <Message>`
+
+
+![Minitalk Image](https://github.com/user-attachments/assets/09a7e6af-797a-4f5d-a772-468f666a1a66)
